@@ -1,0 +1,4 @@
+Resampling_Method,Mean_Improvement,Standard_Error,CI_Lower_95%,CI_Upper_95%,Excludes_Zero,Interval_Type
+"Moving Block Bootstrap (MBB, L=7 days)",0.0107,0.0214,-0.0297,0.0475,False,"Percentile [2.5%, 97.5%]"
+"Moving Block Bootstrap (MBB, L=7 days)",0.0107,0.0214,-0.0313,0.0527,False,Normal Approximation
+Standard i.i.d. Bootstrap (Uncorrected),0.0107,0.0273,-0.0437,0.0644,False,"Percentile [2.5%, 97.5%] (Underestimates SE)"

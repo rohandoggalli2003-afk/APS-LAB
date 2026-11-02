@@ -1,0 +1,5 @@
+Test_Name,Test_Statistic,p_value_One_Sided,p_value_Two_Sided,Reject_H0_alpha_0_05,Decision
+Paired Student's t-Test,t = 0.3954 (df=839),0.34634032697280887,0.6926806539456177,False,Fail to Reject H0
+Wilcoxon Signed-Rank Test,W = 174352.0 (N=840),0.37410434730942566,0.7482086946188513,False,Fail to Reject H0
+Diebold-Mariano HAC Test (HLN corrected),DM = 0.3973 (HAC SE),0.34561130725753963,0.6912226145150793,False,Fail to Reject H0
+Moving Block Bootstrap Test (L=7 days),"Delta_bar = 0.0107 (B=2,000)",0.227,0.454,False,Fail to Reject H0

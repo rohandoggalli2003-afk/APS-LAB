@@ -1,0 +1,5 @@
+Diagnostic_Test,Statistic,p_value,Assumption_Violated
+Shapiro-Wilk Normality Test,W = 0.9759,1.4400e-10,True
+D'Agostino-Pearson Omnibus Normality,K2 = 44.0030,2.7853e-10,True
+Durbin-Watson Serial Correlation,DW = 2.0179,N/A (Expected ~ 2.0),False
+Ljung-Box Autocorrelation (Lag 7),Q-stat,1.8494e-01,False
